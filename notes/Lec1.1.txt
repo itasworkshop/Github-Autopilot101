@@ -1,0 +1,17 @@
+Git
+
+version control system for sharing, building in a team, reviewing and merging and branching.
+
+test2.4.162 --> test2.5.165
+
+gerrit
+gitlab
+github
+
+Repository - directory containing all project files.
+ReadMe file - contains the build and deploy cycle including cloning the repo, setting up dev or test env and running application and test
+
+
+Useful commands
+1. git status --> checking the current status of my local repo
+2. git init --> used initilazation of new git repo
