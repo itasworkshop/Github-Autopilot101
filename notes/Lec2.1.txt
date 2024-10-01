@@ -16,3 +16,4 @@ usefull commands
 7 git add .
 8 git reset "name of the file" --> unstage
 9 git restore "name of the file" --> undo changes
+10 git commit --ammend -m "new commit message"
