@@ -2,3 +2,20 @@ Day to day dev commands
 
 1. git clone or git checkout from respect
 2. git add .
+3. git commit -m "commit message"
+4. git push -u origin main
+
+
+usefull commands
+1 git status --> checking unstaged files
+2 git diff --> shows difference in unstaged files
+3 git log --> listing all recent commits
+4 git add "name of the file"
+5 git commit -m "commit message"
+6 git commit -am "commit message"
+7 git add .
+8 git reset "name of the file" --> unstage
+9 git restore "name of the file" --> undo changes
+10 git commit --ammend -m "new commit message"
+11  git reset --soft HEAD^ --> undo the commit but changes are just unstaged
+12  git reset --hard HEAD^ --> undo commit and changes are also discarded
