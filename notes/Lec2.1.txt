@@ -20,3 +20,4 @@ usefull commands
 11  git reset --soft HEAD^ --> undo the commit but changes are just unstaged
 12  git reset --hard HEAD^ --> undo commit and changes are also discarded
 13 git rebase --onto <commit-id>^
+14 just to check next commit
