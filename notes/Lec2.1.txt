@@ -2,3 +2,13 @@ Day to day dev commands
 
 1. git clone or git checkout from respect
 2. git add .
+3. git commit -m "commit message"
+4. git push -u origin main
+
+
+usefull commands
+1 git status --> checking unstaged files
+2 git diff --> shows difference in unstaged files
+3 git log --> listing all recent commits
+4 git add "name of the file"
+5 git commit -m "commit message"
