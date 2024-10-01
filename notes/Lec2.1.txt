@@ -1,0 +1,4 @@
+Day to day dev commands
+
+1. git clone or git checkout from respect
+2. git add .
