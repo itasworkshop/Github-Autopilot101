@@ -19,3 +19,4 @@ usefull commands
 10 git commit --ammend -m "new commit message"
 11  git reset --soft HEAD^ --> undo the commit but changes are just unstaged
 12  git reset --hard HEAD^ --> undo commit and changes are also discarded
+13 git rebase --onto <commit-id>^
