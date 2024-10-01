@@ -1,0 +1,6 @@
+1. Take a shared git repo 
+	- git pull
+	- git clone
+	- git checkout
+once commit in main branch and once commit in feature branch
+raise pull request and add me reviewer.
