@@ -1,0 +1,8 @@
+Cloning --> taking a replica and working on same
+
+Branching --> dedicated copy of code aiming to have categorised changes/features
+
+feature-branch
+
+Pull Request /Merge Request
+proposal to merge changes from one branch to another branch

@@ -1,0 +1,7 @@
+1. Create a new github repo, initialise, add couple of demo files and folders, commit and push.
+
+2. Take a clone of your repo created in task no 1 and add some changes, comit and push your changes successfuly.
+
+3. Take a clone of my repo, create a folder of your name , add some changes only in your folder, comit and push.
+
+4. Clone repo, create branch with your name-feature, raise pull request, add trainer as reviewer and merge.
