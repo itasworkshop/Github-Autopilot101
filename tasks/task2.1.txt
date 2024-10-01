@@ -4,3 +4,5 @@
 	- git checkout
 once commit in main branch and once commit in feature branch
 raise pull request and add me reviewer.
+
+2 Perform usefull commands as shown during demo
