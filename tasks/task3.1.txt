@@ -1,0 +1,11 @@
+1. Create an example workflow of your choice as demonstrated , 
+trigger it and log some typical information about environment and project.
+
+2. Choose a new repo of a simple java or dot net application, 
+create workflow on push for build and deploy and a sample test run.
+	One Success scenario
+	One Failure Scenario
+
+3. Create an example workflow of your choice as demonstrated , 
+trigger it based on "on pullrequest" event and log some typical information about environment and project.
+
